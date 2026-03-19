@@ -41,9 +41,8 @@ All operations are user-authorized, ensuring privacy and ownership.
 
 ## 🔗 Deployed Smart Contract Link
 
-XXX
-
-(Replace with your deployed contract address / explorer link)
+🔗 https://stellar.expert/explorer/testnet/tx/fcb96846c45243f6ac478d51f11c67450caf03412ca552e792e556abca99a2b2
+🔗 https://lab.stellar.org/r/testnet/contract/CB2GW5RE5Z4HQDFFQ5OJDEAEXJQ2J66AU5S265Z52PHK7FOVZVSX7TSD
 
 ---
 
