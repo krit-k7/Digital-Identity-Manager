@@ -16,7 +16,7 @@ This smart contract enables users to:
 - Delete their identity securely
 - Retrieve identity information when needed
 
-All operations are user-authorized, ensuring privacy and ownership.
+All operations are user-authorized, ensuring privacy and ownership
 
 ---
 
