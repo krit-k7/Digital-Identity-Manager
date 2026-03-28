@@ -4,7 +4,7 @@ A blockchain-based digital identity management system built on Stellar Soroban f
 # 🌐 Digital Identity Manager (Soroban Smart Contract)
 
 ## 📌 Project Description
-Digital Identity Manager is a decentralized application built on the Stellar Soroban smart contract platform. It allows users to securely create, manage, and control their digital identity on-chain without relying on centralized authorities
+Digital Identity Manager is a decentralized application built on the Stellar Soroban smart contract platform. It allows users to securely create, manage, and control their digital identity on-chain without relying on centralized authorities.
 
 ---
 
