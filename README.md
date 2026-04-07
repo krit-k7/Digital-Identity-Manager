@@ -59,7 +59,7 @@ All operations are user-authorized, ensuring privacy and ownership.
 - Integrate KYC providers
 - Add role-based access (e.g., verifier, issuer)
 - Encryption for sensitive fields
-- NFT-based identity
+- NFT-based identity credentials.
 
 ---
 
