@@ -14,7 +14,7 @@ This smart contract enables users to:
 - Store essential identity details (name, email, data reference)
 - Update their identity anytime
 - Delete their identity securely
-- Retrieve identity information when needed
+- Retrieve identity information when needed.
 
 All operations are user-authorized, ensuring privacy and ownership.
 
