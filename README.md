@@ -53,7 +53,7 @@ All operations are user-authorized, ensuring privacy and ownership.
 
 ---
 
-## 📈 Future Improvements
+## 📈 Future Improvements:-
 
 - Add multi-field identity verification
 - Integrate KYC providers
